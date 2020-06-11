@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [安装minikube](README.md)
 * [Untitled](untitled.md)
 

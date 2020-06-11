@@ -1,2 +1,2 @@
-# Initial page
+# 安装minikube
 
